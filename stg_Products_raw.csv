@@ -1,0 +1,91 @@
+ProductID,ProductName,Category,SubCategory,Price
+P001,Phones_1,Technology,Phones,98.06
+P002,Phones_2,Technology,Phones,999.32
+P003,Phones_3,Technology,Phones,844.23
+P004,Phones_4,Technology,Phones,970.55
+P005,Phones_5,Technology,Phones,930.05
+P006,Phones_6,Technology,Phones,856.26
+P007,Phones_7,Technology,Phones,208.0
+P008,Phones_8,Technology,Phones,511.36
+P009,Phones_9,Technology,Phones,253.06
+P010,Phones_10,Technology,Phones,430.99
+P011,Accessories_1,Technology,Accessories,105.7
+P012,Accessories_2,Technology,Accessories,410.02
+P013,Accessories_3,Technology,Accessories,986.04
+P014,Accessories_4,Technology,Accessories,301.94
+P015,Accessories_5,Technology,Accessories,794.87
+P016,Accessories_6,Technology,Accessories,482.26
+P017,Accessories_7,Technology,Accessories,451.86
+P018,Accessories_8,Technology,Accessories,959.45
+P019,Accessories_9,Technology,Accessories,995.65
+P020,Accessories_10,Technology,Accessories,577.98
+P021,Copiers_1,Technology,Copiers,732.49
+P022,Copiers_2,Technology,Copiers,197.06
+P023,Copiers_3,Technology,Copiers,331.87
+P024,Copiers_4,Technology,Copiers,970.27
+P025,Copiers_5,Technology,Copiers,600.22
+P026,Copiers_6,Technology,Copiers,565.09
+P027,Copiers_7,Technology,Copiers,760.58
+P028,Copiers_8,Technology,Copiers,104.31
+P029,Copiers_9,Technology,Copiers,604.97
+P030,Copiers_10,Technology,Copiers,527.71
+P031,Chairs_1,Furniture,Chairs,860.08
+P032,Chairs_2,Furniture,Chairs,199.56
+P033,Chairs_3,Furniture,Chairs,962.74
+P034,Chairs_4,Furniture,Chairs,126.11
+P035,Chairs_5,Furniture,Chairs,226.53
+P036,Chairs_6,Furniture,Chairs,615.28
+P037,Chairs_7,Furniture,Chairs,691.45
+P038,Chairs_8,Furniture,Chairs,273.44
+P039,Chairs_9,Furniture,Chairs,163.89
+P040,Chairs_10,Furniture,Chairs,895.77
+P041,Tables_1,Furniture,Tables,283.9
+P042,Tables_2,Furniture,Tables,614.79
+P043,Tables_3,Furniture,Tables,638.41
+P044,Tables_4,Furniture,Tables,448.26
+P045,Tables_5,Furniture,Tables,604.49
+P046,Tables_6,Furniture,Tables,546.64
+P047,Tables_7,Furniture,Tables,937.97
+P048,Tables_8,Furniture,Tables,244.05
+P049,Tables_9,Furniture,Tables,730.38
+P050,Tables_10,Furniture,Tables,276.75
+P051,Storage_1,Furniture,Storage,426.0
+P052,Storage_2,Furniture,Storage,688.11
+P053,Storage_3,Furniture,Storage,335.0
+P054,Storage_4,Furniture,Storage,350.37
+P055,Storage_5,Furniture,Storage,764.27
+P056,Storage_6,Furniture,Storage,118.92
+P057,Storage_7,Furniture,Storage,485.37
+P058,Storage_8,Furniture,Storage,998.53
+P059,Storage_9,Furniture,Storage,996.29
+P060,Storage_10,Furniture,Storage,119.6
+P061,Binders_1,Office Supplies,Binders,252.5
+P062,Binders_2,Office Supplies,Binders,301.94
+P063,Binders_3,Office Supplies,Binders,936.6
+P064,Binders_4,Office Supplies,Binders,886.82
+P065,Binders_5,Office Supplies,Binders,885.31
+P066,Binders_6,Office Supplies,Binders,401.05
+P067,Binders_7,Office Supplies,Binders,199.86
+P068,Binders_8,Office Supplies,Binders,842.06
+P069,Binders_9,Office Supplies,Binders,718.36
+P070,Binders_10,Office Supplies,Binders,631.09
+P071,Paper_1,Office Supplies,Paper,987.87
+P072,Paper_2,Office Supplies,Paper,671.28
+P073,Paper_3,Office Supplies,Paper,57.43
+P074,Paper_4,Office Supplies,Paper,826.25
+P075,Paper_5,Office Supplies,Paper,334.41
+P076,Paper_6,Office Supplies,Paper,680.22
+P077,Paper_7,Office Supplies,Paper,941.98
+P078,Paper_8,Office Supplies,Paper,177.58
+P079,Paper_9,Office Supplies,Paper,159.66
+P080,Paper_10,Office Supplies,Paper,151.68
+P081,Art_1,Office Supplies,Art,575.56
+P082,Art_2,Office Supplies,Art,308.73
+P083,Art_3,Office Supplies,Art,624.59
+P084,Art_4,Office Supplies,Art,731.73
+P085,Art_5,Office Supplies,Art,243.42
+P086,Art_6,Office Supplies,Art,652.53
+P087,Art_7,Office Supplies,Art,300.78
+P088,Art_8,Office Supplies,Art,514.11
+P089,Art_9,Office Supplies,Art,910.07
+P090,Art_10,Office Supplies,Art,853.8

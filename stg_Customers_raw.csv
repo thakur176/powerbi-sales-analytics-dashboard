@@ -1,0 +1,101 @@
+CustomerID,CustomerName,Region,Segment
+C001,Customer_1,North,Consumer
+C002,Customer_2,East,Corporate
+C003,Customer_3,South,Corporate
+C004,Customer_4,North,Consumer
+C005,Customer_5,West,Consumer
+C006,Customer_6,North,Consumer
+C007,Customer_7,South,Corporate
+C008,Customer_8,North,Corporate
+C009,Customer_9,West,Corporate
+C010,Customer_10,West,Home Office
+C011,Customer_11,North,Corporate
+C012,Customer_12,West,Home Office
+C013,Customer_13,East,Corporate
+C014,Customer_14,South,Home Office
+C015,Customer_15,North,Consumer
+C016,Customer_16,West,Consumer
+C017,Customer_17,East,Home Office
+C018,Customer_18,East,Consumer
+C019,Customer_19,West,Consumer
+C020,Customer_20,West,Consumer
+C021,Customer_21,East,Home Office
+C022,Customer_22,South,Consumer
+C023,Customer_23,North,Corporate
+C024,Customer_24,East,Consumer
+C025,Customer_25,South,Consumer
+C026,Customer_26,West,Home Office
+C027,Customer_27,West,Home Office
+C028,Customer_28,South,Home Office
+C029,Customer_29,East,Corporate
+C030,Customer_30,East,Consumer
+C031,Customer_31,South,Corporate
+C032,Customer_32,South,Small Business
+C033,Customer_33,West,Home Office
+C034,Customer_34,South,Home Office
+C035,Customer_35,North,Corporate
+C036,Customer_36,North,Home Office
+C037,Customer_37,West,Home Office
+C038,Customer_38,North,Corporate
+C039,Customer_39,East,Corporate
+C040,Customer_40,West,Small Business
+C041,Customer_41,West,Corporate
+C042,Customer_42,East,Corporate
+C043,Customer_43,South,Home Office
+C044,Customer_44,West,Small Business
+C045,Customer_45,East,Corporate
+C046,Customer_46,South,Small Business
+C047,Customer_47,North,Consumer
+C048,Customer_48,North,Corporate
+C049,Customer_49,South,Small Business
+C050,Customer_50,North,Small Business
+C051,Customer_51,West,Small Business
+C052,Customer_52,East,Consumer
+C053,Customer_53,North,Home Office
+C054,Customer_54,East,Consumer
+C055,Customer_55,East,Small Business
+C056,Customer_56,South,Small Business
+C057,Customer_57,North,Home Office
+C058,Customer_58,South,Consumer
+C059,Customer_59,East,Corporate
+C060,Customer_60,South,Home Office
+C061,Customer_61,South,Consumer
+C062,Customer_62,East,Small Business
+C063,Customer_63,North,Consumer
+C064,Customer_64,East,Home Office
+C065,Customer_65,South,Consumer
+C066,Customer_66,South,Consumer
+C067,Customer_67,North,Small Business
+C068,Customer_68,North,Corporate
+C069,Customer_69,South,Small Business
+C070,Customer_70,South,Home Office
+C071,Customer_71,West,Corporate
+C072,Customer_72,South,Home Office
+C073,Customer_73,West,Home Office
+C074,Customer_74,West,Small Business
+C075,Customer_75,North,Corporate
+C076,Customer_76,South,Consumer
+C077,Customer_77,East,Consumer
+C078,Customer_78,South,Corporate
+C079,Customer_79,North,Consumer
+C080,Customer_80,North,Corporate
+C081,Customer_81,North,Consumer
+C082,Customer_82,East,Consumer
+C083,Customer_83,South,Home Office
+C084,Customer_84,West,Corporate
+C085,Customer_85,South,Small Business
+C086,Customer_86,South,Small Business
+C087,Customer_87,West,Corporate
+C088,Customer_88,North,Consumer
+C089,Customer_89,West,Home Office
+C090,Customer_90,West,Small Business
+C091,Customer_91,West,Consumer
+C092,Customer_92,North,Consumer
+C093,Customer_93,West,Home Office
+C094,Customer_94,North,Corporate
+C095,Customer_95,South,Corporate
+C096,Customer_96,West,Corporate
+C097,Customer_97,West,Corporate
+C098,Customer_98,East,Small Business
+C099,Customer_99,South,Consumer
+C100,Customer_100,West,Consumer
